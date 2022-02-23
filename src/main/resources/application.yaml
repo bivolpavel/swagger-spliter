@@ -1,0 +1,7 @@
+swagger:
+  splitt:
+    inputFilePath: F:\\Documentations\\Sberbank\\Swagger Definitions\\products\\api.json
+    outputFilePath: F:\\Documentations\\Sberbank\\Swagger Definitions\\products\\product-catalogue.json
+    keptApis:
+      - path: /product-catalogue
+      - path: /product-catalogue
